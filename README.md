@@ -1,6 +1,6 @@
 # The awesome Rust programming language links list
 
-Hand-on list of various links.
+The hands-on bookmark's list of various useful links.
 
 * [Awesome Rust. A curated list of Rust code and resources](https://github.com/rust-unofficial/awesome-rust)
 * [Cargo book](https://doc.rust-lang.org/cargo/index.html)
