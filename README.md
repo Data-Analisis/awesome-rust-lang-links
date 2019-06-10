@@ -12,4 +12,5 @@ The hands-on bookmark's list of various useful links.
 * [Rust language nursery](https://github.com/rust-lang-nursery/)
 * [Rust language reference](https://doc.rust-lang.org/reference/)
 * [Where to put the turbofish](https://matematikaadit.github.io/posts/rust-turbofish.html)
+* [Writing OS in Rust](https://os.phil-opp.com/)
 * [Программирование на языке Rust. Орендорф Джейсон, Блэнди Джим](https://www.ozon.ru/context/detail/id/144056219/)
