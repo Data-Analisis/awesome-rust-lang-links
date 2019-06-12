@@ -6,6 +6,7 @@ The hands-on bookmark's list of various useful links.
 * [Awesome Rust. A curated list of Rust code and resources](https://github.com/rust-unofficial/awesome-rust)
 * [Cargo book](https://doc.rust-lang.org/cargo/index.html)
 * [Cheatsheet](https://upsuper.github.io/rust-cheatsheet/)
+* [Contract-based programming support library](https://github.com/nrc/libhoare)
 * [Dynamically sized types](http://smallcultfollowing.com/babysteps/blog/2014/01/05/dst-take-5/)
 * [Finding Closure in Rust](http://huonw.github.io/blog/2015/05/finding-closure-in-rust/)
 * [Improved Error Handling in Rust](http://lucumr.pocoo.org/2014/11/6/error-handling-in-rust/)
