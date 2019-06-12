@@ -12,6 +12,7 @@ The hands-on bookmark's list of various useful links.
 * [RFC1574: More API Documentation Conventions](https://github.com/rust-lang/rfcs/blob/master/text/1574-more-api-documentation-conventions.md)
 * [Rust API guidelines](https://rust-lang-nursery.github.io/api-guidelines/)
 * [Rust async book](https://rust-lang.github.io/async-book/)
+* [Rust for embedded devices](https://docs.rust-embedded.org/)
 * [Rust language nursery](https://github.com/rust-lang-nursery/)
 * [Rust language reference](https://doc.rust-lang.org/reference/)
 * [Rust Means Never Having to Close a Socket](https://blog.skylight.io/rust-means-never-having-to-close-a-socket/)
